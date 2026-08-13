@@ -1,8 +1,8 @@
 # PoteOS
 
-Como testar no celular:
+Como testar no celular?
 
-1 - Baixe os arquivos e coloque-os na mesma pasta.
+1 - Baixe os arquivos do repositório e coloque-os na mesma pasta(Exceto README e LICENSE).
 
 2 - Baixe o Termux e o Termux:x11
 
