@@ -18,7 +18,7 @@ Como testar no celular:
 
 8 - Localize a pasta dos arquivos com o comando "cd"(ex: cd /sdcard/Download/PoteOS)
 
-9 - Use o comando "sh bash.sh" para compilar os arquivos, linkar, preparar o ambiente gráfico(Termux:x11) e testar na Bochs.
+9 - Use o comando "sh bash.sh".
 
 10 - Abra o Termux:x11.
 
