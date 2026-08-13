@@ -1,0 +1,9 @@
+megs: 32
+display_library: x
+
+romimage: file=/data/data/com.termux/files/usr/share/bochs/BIOS-bochs-latest
+vgaromimage: file=/data/data/com.termux/files/usr/share/bochs/VGABIOS-lgpl-latest.bin
+
+ata0-master: type=disk, path="poteos.img", mode=flat
+boot: disk
+keyboard: keymap=/data/data/com.termux/files/usr/share/bochs/keymaps/x11-pc-us.map
