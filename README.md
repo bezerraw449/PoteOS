@@ -16,7 +16,7 @@ Como testar no celular?
 
 7 - Instale a máquina virtual Bochs com o comando "pkg install bochs"
 
-8 - Localize a pasta dos arquivos com o comando "cd"(ex: cd /sdcard/Download/PoteOS)
+8 - Localize a pasta que contém os arquivos com o comando "cd"(ex: cd /sdcard/Download/PoteOS)
 
 9 - Use o comando "sh bash.sh".
 
