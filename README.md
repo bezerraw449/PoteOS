@@ -6,7 +6,7 @@ Como testar no celular?
 
 2 - Baixe o Termux e o Termux:x11
 
-3 - Dentro do Termux, atualize todos os programas com o comando "pkg update && pkg upgrade" confirme as instalações digitando "y" e depois "Enter".
+3 - Dentro do Termux, atualize todos os programas com o comando "pkg update && pkg upgrade" confirme as instalações digitando "y" e depois clicando em "Enter".
 
 4 - Instale os repositórios com os comando disponíveis no próprio Termux(pkg install root-repo && pkg install x11-repo)
 
